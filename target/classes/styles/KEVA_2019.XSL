@@ -12,7 +12,7 @@
 	<xsl:template match="Tlush">
 
         <!-- הצגת גלופת התלוש -->
-        <img src="http://localhost:8081/glufa/KV/2019" style="position:absolute; top:0px; left:0px;"/>
+        <img src="http://localhost:8080/glufa/KEVA/2019" style="position:absolute; top:0px; left:0px;"/>
 
         <!-- קוביית לכבוד -->
         <TABLE BORDER="0" style="position:absolute; top:55px; left:50px;">

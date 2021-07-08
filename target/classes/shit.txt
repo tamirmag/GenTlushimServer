@@ -1,0 +1,390 @@
+<img src="http://localhost:8080/glufa/KEVA/2019" style="position:absolute; top:0px; left:0px;"><TABLE BORDER="0" style="position:absolute; top:55px; left:50px;">
+    <TR>
+        <TD CLASS="tlushTd" WIDTH="220px" align="right">      לפידות   יעקב </TD><TD CLASS="tlushTd" align="right">
+		            מ. א.453374</TD>
+    </TR>
+    <TD CLASS="tlushTd" WIDTH="220px" align="right">
+		            יחתש
+		            9999</TD><TD CLASS="tlushTd" align="right">
+		            יחידת משנה
+		            </TD>
+    <TR></TR>
+</TABLE><span style="position:absolute; top:103px; left:298px;">
+    <TABLE>
+        <TD CLASS="itemNum" WIDTH="77px" ALIGN="center">005099643</TD>
+    </TABLE>
+</span><span style="position:absolute; top:103px; left:233px;">
+    <TABLE>
+        <TD CLASS="tlushTd" WIDTH="40px" ALIGN="center"></TD>
+    </TABLE>
+</span><span style="position:absolute; top:103px; left:114px;">
+    <TABLE>
+        <TD CLASS="itemNum" WIDTH="88px" ALIGN="center"></TD>
+    </TABLE>
+</span><span style="position:absolute; top:103px; left:21px;">
+    <TABLE>
+        <TD CLASS="tlushTd" WIDTH="76px" ALIGN="center">נ 
+				+
+			    3</TD>
+    </TABLE>
+</span><span style="position:absolute; top:170px; left:411px;"><B>2019
+                /
+                12</B></span><span style="position:absolute; top:220px; left:610px;">
+    <TABLE>
+        <TD CLASS="tlushTd" WIDTH="123px" ALIGN="RIGHT">אוצר החייל</TD>
+    </TABLE>
+</span><span style="position:absolute; top:220px; left:561px;">
+    <TABLE>
+        <TD CLASS="itemNum" WIDTH="40px" ALIGN="RIGHT">372</TD>
+    </TABLE>
+</span><span style="position:absolute; top:220px; left:460px;">
+    <TABLE>
+        <TD CLASS="tlushTd" WIDTH="90px" ALIGN="RIGHT">תל השומר</TD>
+    </TABLE>
+</span><span style="position:absolute; top:220px; left:382px;">
+    <TABLE>
+        <TD CLASS="itemNum" WIDTH="70px" ALIGN="RIGHT">0000082149</TD>
+    </TABLE>
+</span><span style="position:absolute; top:280px; left:382px;">
+    <TABLE BORDER="0">
+        <TD CLASS="itemNum" WIDTH="60px" ALIGN="RIGHT"></TD><TD CLASS="itemNum" WIDTH="49px" ALIGN="RIGHT"></TD><TD CLASS="itemNum" WIDTH="55px" ALIGN="RIGHT"></TD><TD CLASS="itemNum" WIDTH="79px" ALIGN="RIGHT"></TD><TD CLASS="itemNum" WIDTH="84px" ALIGN="RIGHT"></TD>
+    </TABLE>
+</span><span style="position:absolute; top:220px; left:10px;">
+    <TABLE>
+        <TD CLASS="itemNum" WIDTH="82px" ALIGN="right">515248.12</TD><TD CLASS="itemNum" WIDTH="80px" ALIGN="right">630.00</TD><TD CLASS="itemNum" WIDTH="90px" ALIGN="right"></TD><TD CLASS="itemNum" WIDTH="80px" ALIGN="right">36549.16</TD>
+    </TABLE>
+</span><span style="position:absolute; top:265px; left:10px;">
+    <TABLE>
+        <TD CLASS="itemNum" WIDTH="82px" ALIGN="right">8674.20</TD><TD CLASS="itemNum" WIDTH="80px" ALIGN="right">565740.52</TD><TD CLASS="itemNum" WIDTH="90px" ALIGN="right">0.00</TD><TD CLASS="itemNum" WIDTH="80px" ALIGN="right">10</TD>
+    </TABLE>
+</span><span style="position:absolute; top:369px; left:10px;">
+    <TABLE BORDER="0" CELLSPACING="0" WIDTH="711px" CELLPADDING="0">
+        <TR>
+            <TD CLASS="tlushTd" VALIGN="TOP" WIDTH="350px">
+                <TABLE BORDER="0" CELLSPACING="0" CELLPADDING="0">
+                    <TR>
+                        <TD CLASS="itemText" WIDTH="147px"><span dir="ltr"><A natunName="אוכלוסיה">אוכלוסיה</A></span></TD><TD CLASS="itemText" WIDTH="123px"><span dir="ltr"></span></TD><TD CLASS="itemNum" WIDTH="61px" ALIGN="CENTER">010198</TD>
+                    </TR>
+                    <TR>
+                        <TD CLASS="itemText" WIDTH="147px"><span dir="ltr"><A natunName="דרגת_שכר">דרגת_שכר</A></span></TD><TD CLASS="itemText" WIDTH="123px"><span dir="ltr"></span></TD><TD CLASS="itemNum" WIDTH="61px" ALIGN="CENTER">010492</TD>
+                    </TR>
+                    <TR>
+                        <TD CLASS="itemText" WIDTH="147px"><span dir="ltr"><A natunName="דרוג">דרוג</A></span></TD><TD CLASS="itemText" WIDTH="123px"><span dir="ltr">מח"ר מועדף</span></TD><TD CLASS="itemNum" WIDTH="61px" ALIGN="CENTER">010197</TD>
+                    </TR>
+                    <TR>
+                        <TD CLASS="itemText" WIDTH="147px"><span dir="ltr"><A natunName="ותק_בפעילות_רמה_א">ותק_בפעילות_רמה_א</A></span></TD><TD CLASS="itemText" WIDTH="123px"><span dir="ltr">09.00.00</span></TD><TD CLASS="itemNum" WIDTH="61px" ALIGN="CENTER">010187</TD>
+                    </TR>
+                    <TR>
+                        <TD CLASS="itemText" WIDTH="147px"><span dir="ltr"><A natunName="ותק_בפעילות_רמה_ב">ותק_בפעילות_רמה_ב</A></span></TD><TD CLASS="itemText" WIDTH="123px"><span dir="ltr">09.00.00</span></TD><TD CLASS="itemNum" WIDTH="61px" ALIGN="CENTER">011094</TD>
+                    </TR>
+                    <TR>
+                        <TD CLASS="itemText" WIDTH="147px"><span dir="ltr"><A natunName="ותק_בפעילות_רמה_ג">ותק_בפעילות_רמה_ג</A></span></TD><TD CLASS="itemText" WIDTH="123px"><span dir="ltr">00.03.00</span></TD><TD CLASS="itemNum" WIDTH="61px" ALIGN="CENTER">011087</TD>
+                    </TR>
+                    <TR>
+                        <TD CLASS="itemText" WIDTH="147px"><span dir="ltr"><A natunName="מצב_בן__הזוג">מצב_בן__הזוג</A></span></TD><TD CLASS="itemText" WIDTH="123px"><span dir="ltr">לא עובד</span></TD><TD CLASS="itemNum" WIDTH="61px" ALIGN="CENTER">010108</TD>
+                    </TR>
+                    <TR>
+                        <TD CLASS="itemText" WIDTH="147px"><span dir="ltr"><A natunName="מקום_עבודה">מקום_עבודה</A></span></TD><TD CLASS="itemText" WIDTH="123px"><span dir="ltr">לא_עובד</span></TD><TD CLASS="itemNum" WIDTH="61px" ALIGN="CENTER">010100</TD>
+                    </TR>
+                    <TR>
+                        <TD CLASS="itemText" WIDTH="147px"><span dir="ltr"><A natunName="_שיעור_תשלומי_הפרשים">_שיעור_תשלומי_הפרשים</A></span></TD><TD CLASS="itemText" WIDTH="123px"><span dir="ltr">94.00</span></TD><TD CLASS="itemNum" WIDTH="61px" ALIGN="CENTER">011219</TD>
+                    </TR>
+                    <TR>
+                        <TD CLASS="itemText" WIDTH="147px"><span dir="ltr"><A natunName="שיעור_תוספת_שחיקה_מש">שיעור_תוספת_שחיקה_מש</A></span></TD><TD CLASS="itemText" WIDTH="123px"><span dir="ltr">12.00</span></TD><TD CLASS="itemNum" WIDTH="61px" ALIGN="CENTER">010114</TD>
+                    </TR>
+                    <TR>
+                        <TD CLASS="itemText" WIDTH="147px"><span dir="ltr"><A natunName="שיעור_תוספת_שחיקה">שיעור_תוספת_שחיקה</A></span></TD><TD CLASS="itemText" WIDTH="123px"><span dir="ltr">12.00</span></TD><TD CLASS="itemNum" WIDTH="61px" ALIGN="CENTER">010112</TD>
+                    </TR>
+                    <TR>
+                        <TD CLASS="itemText" WIDTH="147px"><span dir="ltr"><A natunName="שיעור_תוספת_הסכם_מדד">שיעור_תוספת_הסכם_מדד</A></span></TD><TD CLASS="itemText" WIDTH="123px"><span dir="ltr">10.40</span></TD><TD CLASS="itemNum" WIDTH="61px" ALIGN="CENTER">010812</TD>
+                    </TR>
+                    <TR>
+                        <TD CLASS="itemText" WIDTH="147px"><span dir="ltr"><A natunName="שיעור_תוספת_הסכם_מדד">שיעור_תוספת_הסכם_מדד</A></span></TD><TD CLASS="itemText" WIDTH="123px"><span dir="ltr">10.40</span></TD><TD CLASS="itemNum" WIDTH="61px" ALIGN="CENTER">010114</TD>
+                    </TR>
+                    <TR>
+                        <TD CLASS="itemText" WIDTH="147px"><span dir="ltr"><A natunName="שיעור_המדד_השנתי">שיעור_המדד_השנתי</A></span></TD><TD CLASS="itemText" WIDTH="123px"><span dir="ltr">0.000</span></TD><TD CLASS="itemNum" WIDTH="61px" ALIGN="CENTER">010115</TD>
+                    </TR>
+                    <TR>
+                        <TD CLASS="itemText" WIDTH="147px"><span dir="ltr"><A natunName="שיעור_המדד_המצטבר">שיעור_המדד_המצטבר</A></span></TD><TD CLASS="itemText" WIDTH="123px"><span dir="ltr">3.480</span></TD><TD CLASS="itemNum" WIDTH="61px" ALIGN="CENTER">010114</TD>
+                    </TR>
+                    <TR>
+                        <TD CLASS="itemText" WIDTH="147px"><span dir="ltr"><A natunName="תואר">תואר</A></span></TD><TD CLASS="itemText" WIDTH="123px"><span dir="ltr">תואר_ב</span></TD><TD CLASS="itemNum" WIDTH="61px" ALIGN="CENTER">010888</TD>
+                    </TR>
+                    <TR>
+                        <TD CLASS="itemText" WIDTH="147px"><span dir="ltr"><A natunName="אחוז_פטור_מס">אחוז_פטור_מס</A></span></TD><TD CLASS="itemText" WIDTH="123px"><span dir="ltr">100</span></TD><TD CLASS="itemNum" WIDTH="61px" ALIGN="CENTER">010118</TD>
+                    </TR>
+                </TABLE>
+            </TD><TD CLASS="tlushTd" WIDTH="22px"></TD><TD CLASS="tlushTd" VALIGN="TOP">
+                <TABLE BORDER="0" CELLSPACING="0" CELLPADDING="0">
+                    <TR>
+                        <TD CLASS="itemText" WIDTH="147px"><span dir="ltr"><A natunName="מספר_נקודות_זיכוי">מספר_נקודות_זיכוי</A></span></TD><TD CLASS="itemText" WIDTH="123px"><span dir="ltr">3.25</span></TD><TD CLASS="itemNum" WIDTH="61px" ALIGN="CENTER">010108</TD>
+                    </TR>
+                    <TR>
+                        <TD CLASS="itemText" WIDTH="147px"><span dir="ltr"><A natunName="תאריך__פרישה">תאריך__פרישה</A></span></TD><TD CLASS="itemText" WIDTH="123px"><span dir="ltr">01/10/1991</span></TD><TD CLASS="itemNum" WIDTH="61px" ALIGN="CENTER">010110</TD>
+                    </TR>
+                    <TR>
+                        <TD CLASS="itemText" WIDTH="147px"><span dir="ltr"><A natunName="אחוז_הקצבה_המדווח">אחוז_הקצבה_המדווח</A></span></TD><TD CLASS="itemText" WIDTH="123px"><span dir="ltr">75.67</span></TD><TD CLASS="itemNum" WIDTH="61px" ALIGN="CENTER">011298</TD>
+                    </TR>
+                    <TR>
+                        <TD CLASS="itemText" WIDTH="147px"><span dir="ltr"><A natunName="אחוז_ההוון">אחוז_ההוון</A></span></TD><TD CLASS="itemText" WIDTH="123px"><span dir="ltr">25.00</span></TD><TD CLASS="itemNum" WIDTH="61px" ALIGN="CENTER">011201</TD>
+                    </TR>
+                    <TR>
+                        <TD CLASS="itemText" WIDTH="147px"><span dir="ltr"><A natunName="מסלול_הוון">מסלול_הוון</A></span></TD><TD CLASS="itemText" WIDTH="123px"><span dir="ltr">לכל_החיים</span></TD><TD CLASS="itemNum" WIDTH="61px" ALIGN="CENTER">011201</TD>
+                    </TR>
+                    <TR>
+                        <TD CLASS="itemText" WIDTH="147px"><span dir="ltr"><A natunName="תאריך_הוון">תאריך_הוון</A></span></TD><TD CLASS="itemText" WIDTH="123px"><span dir="ltr">01/12/2001</span></TD><TD CLASS="itemNum" WIDTH="61px" ALIGN="CENTER">011201</TD>
+                    </TR>
+                    <TR>
+                        <TD CLASS="itemText" WIDTH="147px"><span dir="ltr"><A natunName="קצבה_חודשית">קצבה_חודשית</A></span></TD><TD CLASS="itemText" WIDTH="123px"><span dir="ltr">40,010.39</span></TD><TD CLASS="itemNum" WIDTH="61px" ALIGN="CENTER">011019</TD>
+                    </TR>
+                </TABLE>
+            </TD>
+        </TR>
+    </TABLE>
+</span><span style="position:absolute; top:684px; left:382px;">
+    <TABLE BORDER="0" CELLSPACING="0" CELLPADDING="0" WIDTH="339px">
+        <TR>
+            <TD CLASS="itemText" WIDTH="177px"><span dir="ltr"><A natunName="קצבה_ברוטו">קצבה_ברוטו</A></span></TD><TD CLASS="itemNum" WIDTH="82px"></TD><TD CLASS="itemNum">38738.87</TD>
+        </TR>
+        <TR>
+            <TD CLASS="itemText" WIDTH="177px"><span dir="ltr"><A natunName="השלמה_לתוספת_יוקר">השלמה_לתוספת_יוקר</A></span></TD><TD CLASS="itemNum" WIDTH="82px"></TD><TD CLASS="itemNum">1479.82</TD>
+        </TR>
+        <TR>
+            <TD CLASS="itemText" WIDTH="177px"><span dir="ltr"><A natunName="פיצוי_שחיקה">פיצוי_שחיקה</A></span></TD><TD CLASS="itemNum" WIDTH="82px"></TD><TD CLASS="itemNum">1286.99</TD>
+        </TR>
+        <TR>
+            <TD CLASS="itemText" WIDTH="177px"><span dir="ltr"><A natunName="2012_תוספת_שחיקה">2012_תוספת_שחיקה</A></span></TD><TD CLASS="itemNum" WIDTH="82px"></TD><TD CLASS="itemNum">4980.68</TD>
+        </TR>
+        <TR>
+            <TD CLASS="itemText" WIDTH="177px"><span dir="ltr"><A natunName="2012_תוספת_מדדים">2012_תוספת_מדדים</A></span></TD><TD CLASS="itemNum" WIDTH="82px"></TD><TD CLASS="itemNum">4879.49</TD>
+        </TR>
+        <TR>
+            <TD CLASS="itemText" WIDTH="177px"><span dir="ltr"><A natunName="2012_הפרשים_בגין_הסכם">2012_הפרשים_בגין_הסכם</A></span></TD><TD CLASS="itemNum" WIDTH="82px">1118.27</TD><TD CLASS="itemNum">1116.05</TD>
+        </TR>
+    </TABLE>
+</span><span style="position:absolute; top:939px; left:384px;">
+    <TABLE>
+        <TD CLASS="itemNum" WIDTH="74px" ALIGN="RIGHT">52481.90</TD>
+    </TABLE>
+</span><span style="position:absolute; top:684px; left:10px;">
+    <TABLE BORDER="0" CELLSPACING="0" CELLPADDING="0" WIDTH="339px">
+        <TR>
+            <TD CLASS="itemText" WIDTH="176px"><span dir="ltr"><A natunName="הפחתה_עקב_הוון">הפחתה_עקב_הוון</A></span></TD><TD CLASS="itemNum" WIDTH="83px"></TD><TD CLASS="itemNum">12471.51</TD>
+        </TR>
+        <TR>
+            <TD CLASS="itemText" WIDTH="176px"><span dir="ltr"><A natunName="ביטוח_חיים">ביטוח_חיים</A></span></TD><TD CLASS="itemNum" WIDTH="83px">371.41</TD><TD CLASS="itemNum">370.69</TD>
+        </TR>
+        <TR>
+            <TD CLASS="itemText" WIDTH="176px"><span dir="ltr"><A natunName="חבר_משרתי_הקבע_והגמלאים">חבר_משרתי_הקבע_והגמלאים</A></span></TD><TD CLASS="itemNum" WIDTH="83px"></TD><TD CLASS="itemNum">24.00</TD>
+        </TR>
+        <TR>
+            <TD CLASS="itemText" WIDTH="176px"><span dir="ltr"><A natunName="צוות">צוות</A></span></TD><TD CLASS="itemNum" WIDTH="83px"></TD><TD CLASS="itemNum">41.00</TD>
+        </TR>
+    </TABLE>
+</span><span style="position:absolute; top:937px; left:9px;" dir="ltr">
+    <TABLE>
+        <TD CLASS="itemNum" WIDTH="76px" ALIGN="RIGHT">12907.20</TD>
+    </TABLE>
+</span><span style="position:absolute; top:958px; left:9px;" dir="ltr">
+    <TABLE>
+        <TD CLASS="itemNum" WIDTH="76px" ALIGN="RIGHT"><B>39574.70</B></TD>
+    </TABLE>
+</span><span style="position:absolute; top:1046px; left:383px;">
+    <TABLE BORDER="0" CELLSPACING="0" CELLPADDING="0" WIDTH="338px">
+        <TR>
+            <TD CLASS="itemText" WIDTH="149px"><span dir="ltr"><A natunName="ביטוח_חיים">ביטוח_חיים</A></span></TD><TD CLASS="itemNum" WIDTH="59px" ALIGN="center">011019</TD><TD CLASS="itemNum" WIDTH="60px" ALIGN="center">011219</TD><TD CLASS="itemNum">1.44</TD>
+        </TR>
+    </TABLE>
+</span><span style="position:absolute; top:1300px; left:380px;">
+    <TABLE>
+        <TD CLASS="itemNum" WIDTH="68px" ALIGN="RIGHT">1.44</TD>
+    </TABLE>
+</span><span style="position:absolute; top:1043px; left:10px;">
+    <TABLE>
+        <TD CLASS="itemNum" WIDTH="76px" ALIGN="RIGHT">
+            <TABLE BORDER="0" CELLSPACING="0" CELLPADDING="0" WIDTH="337px">
+                <TR>
+                    <TD CLASS="itemText" WIDTH="150px"><A natunName="2012_הפרשים_בגין_הסכם">2012_הפרשים_בגין_הסכם</A></TD><TD CLASS="itemNum" WIDTH="59px" ALIGN="center">011019</TD><TD CLASS="itemNum" WIDTH="59px" ALIGN="center">011219</TD><TD CLASS="itemNum">4.44</TD>
+                </TR>
+            </TABLE>
+        </TD>
+    </TABLE>
+</span><span style="position:absolute; top:1300px; left:10px;" dir="ltr">
+    <TABLE>
+        <TD CLASS="itemNum" WIDTH="65px" ALIGN="RIGHT">4.44</TD>
+    </TABLE>
+</span><span style="position:absolute; top:1320px; left:10px;" dir="ltr">
+    <TABLE>
+        <TD CLASS="itemNum" WIDTH="65px" ALIGN="RIGHT"><B>-3.00</B></TD>
+    </TABLE>
+</span><span style="position:absolute; top:1429px; left:9px;">
+    <TABLE BORDER="0" CELLSPACING="0" CELLPADDING="0">
+        <TR>
+            <TD CLASS="itemText" WIDTH="107px">ביטוחים</TD><TD CLASS="itemText" WIDTH="157px"><span dir="ltr">איילון ביט תאונות איש קב</span></TD><TD CLASS="itemNum" WIDTH="80px"><span dir="ltr">0000026860</span></TD><TD CLASS="itemNum" WIDTH="51px">511</TD><TD CLASS="itemNum" WIDTH="42px">1226</TD><TD CLASS="itemNum" WIDTH="61px"></TD><TD CLASS="itemNum" WIDTH="43px"></TD><TD CLASS="itemNum" WIDTH="77px"></TD><TD CLASS="itemNum" WIDTH="64px">17.79</TD><TD CLASS="itemNum" WIDTH="29px"></TD>
+        </TR>
+        <TR>
+            <TD CLASS="itemText" WIDTH="107px">ביטוחים</TD><TD CLASS="itemText" WIDTH="157px"><span dir="ltr">הראל - ביטוח שיניים</span></TD><TD CLASS="itemNum" WIDTH="80px"><span dir="ltr">בטוח שניים</span></TD><TD CLASS="itemNum" WIDTH="51px">391</TD><TD CLASS="itemNum" WIDTH="42px">1220</TD><TD CLASS="itemNum" WIDTH="61px"></TD><TD CLASS="itemNum" WIDTH="43px"></TD><TD CLASS="itemNum" WIDTH="77px"></TD><TD CLASS="itemNum" WIDTH="64px">251.28</TD><TD CLASS="itemNum" WIDTH="29px"></TD>
+        </TR>
+        <TR>
+            <TD CLASS="itemText" WIDTH="107px">ביטוחים</TD><TD CLASS="itemText" WIDTH="157px"><span dir="ltr">מנורה מבטחים-ביטוח סיעוד</span></TD><TD CLASS="itemNum" WIDTH="80px"><span dir="ltr">הרונמדועיס</span></TD><TD CLASS="itemNum" WIDTH="51px">418</TD><TD CLASS="itemNum" WIDTH="42px">1226</TD><TD CLASS="itemNum" WIDTH="61px"></TD><TD CLASS="itemNum" WIDTH="43px"></TD><TD CLASS="itemNum" WIDTH="77px"></TD><TD CLASS="itemNum" WIDTH="64px">956.68</TD><TD CLASS="itemNum" WIDTH="29px"></TD>
+        </TR>
+        <TR>
+            <TD CLASS="itemText" WIDTH="107px">ביטוחים</TD><TD CLASS="itemText" WIDTH="157px"><span dir="ltr">פניקס-ביטוח רפואי</span></TD><TD CLASS="itemNum" WIDTH="80px"><span dir="ltr">דתווצחוטיב</span></TD><TD CLASS="itemNum" WIDTH="51px">1218</TD><TD CLASS="itemNum" WIDTH="42px">1125</TD><TD CLASS="itemNum" WIDTH="61px"></TD><TD CLASS="itemNum" WIDTH="43px"></TD><TD CLASS="itemNum" WIDTH="77px"></TD><TD CLASS="itemNum" WIDTH="64px">752.13</TD><TD CLASS="itemNum" WIDTH="29px"></TD>
+        </TR>
+        <TR>
+            <TD CLASS="itemText" WIDTH="107px">בנק אוצר החייל</TD><TD CLASS="itemText" WIDTH="157px"><span dir="ltr">תל אביב המרכז הלואות</span></TD><TD CLASS="itemNum" WIDTH="80px"><span dir="ltr">1057701430</span></TD><TD CLASS="itemNum" WIDTH="51px">619</TD><TD CLASS="itemNum" WIDTH="42px">524</TD><TD CLASS="itemNum" WIDTH="61px"></TD><TD CLASS="itemNum" WIDTH="43px">60</TD><TD CLASS="itemNum" WIDTH="77px">90660.58</TD><TD CLASS="itemNum" WIDTH="64px">1796.87</TD><TD CLASS="itemNum" WIDTH="29px"></TD>
+        </TR>
+    </TABLE>
+</span><span style="position:absolute; top:1685px; left:9px;" dir="ltr">
+    <TABLE>
+        <TD CLASS="itemNum" WIDTH="88x" ALIGN="RIGHT">-3774.75</TD>
+    </TABLE>
+</span><span style="position:absolute; top:1710px; left:1px;">
+    <TABLE>
+        <TD CLASS="itemNum" WIDTH="98px" ALIGN="RIGHT"><B>35796.95</B></TD>
+    </TABLE>
+</span><span style="position:absolute; top:1760px; left:520px;">
+    <TABLE BORDER="0">
+        <TD CLASS="itemNum" WIDTH="60px" ALIGN="center">0</TD>
+    </TABLE>
+</span><span style="position:absolute; left:13px; top:1830px">
+    <TABLE BORDER="0" CELLSPACING="0" WIDTH="720px" CELLPADDING="0">
+        <TR>
+            <TD CLASS="tlushTd" WIDTH="25px"></TD><TD CLASS="tlushTd" VALIGN="TOP" WIDTH="290px">
+                <TABLE BORDER="0" CELLSPACING="0" CELLPADDING="0">
+                    <TR>
+                        <TD ALIGN="RIGHT" DIR="LTR" CLASS="odaotTd">     **********************************             </TD>
+                    </TR>
+                    <TR>
+                        <TD ALIGN="RIGHT" DIR="LTR" CLASS="odaotTd">     *                 יעקב    לפידות *             </TD>
+                    </TR>
+                    <TR>
+                        <TD ALIGN="RIGHT" DIR="LTR" CLASS="odaotTd">     *   1               שד שאול המלך *             </TD>
+                    </TR>
+                    <TR>
+                        <TD ALIGN="RIGHT" DIR="LTR" CLASS="odaotTd">     *        6473301      תלאביב יפו *             </TD>
+                    </TR>
+                    <TR>
+                        <TD ALIGN="RIGHT" DIR="LTR" CLASS="odaotTd">     * 720-120-000                    *             </TD>
+                    </TR>
+                    <TR>
+                        <TD ALIGN="RIGHT" DIR="LTR" CLASS="odaotTd">     **********************************             </TD>
+                    </TR>
+                    <TR>
+                        <TD ALIGN="RIGHT" DIR="LTR" CLASS="odaotTd">  לידיעתך, המועד האחרון להגשת הצהרה על *            </TD>
+                    </TR>
+                    <TR>
+                        <TD ALIGN="RIGHT" DIR="LTR" CLASS="odaotTd">   הכנסות גבוהות לחודש דצמבר 2019, לצרכי            </TD>
+                    </TR>
+                    <TR>
+                        <TD ALIGN="RIGHT" DIR="LTR" CLASS="odaotTd">   ביטוח לאומי הוא חודש דצמבר 2019. לאחר            </TD>
+                    </TR>
+                    <TR>
+                        <TD ALIGN="RIGHT" DIR="LTR" CLASS="odaotTd">   מכן הטיפול עבור שנת 2019 יתבצע אך ורק            </TD>
+                    </TR>
+                    <TR>
+                        <TD ALIGN="RIGHT" DIR="LTR" CLASS="odaotTd"> על ידי קבלת טפסי 100. ביצוע תיאום ביטוח            </TD>
+                    </TR>
+                    <TR>
+                        <TD ALIGN="RIGHT" DIR="LTR" CLASS="odaotTd">  ) לאומי הכנסות גבוהות לחודשים שהסתיימו            </TD>
+                    </TR>
+                    <TR>
+                        <TD ALIGN="RIGHT" DIR="LTR" CLASS="odaotTd">     ינואר - נובמבר 2019 ), יתבצע על ידי            </TD>
+                    </TR>
+                    <TR>
+                        <TD ALIGN="RIGHT" DIR="LTR" CLASS="odaotTd">                          .100 הגשת טופס            </TD>
+                    </TR>
+                    <TR>
+                        <TD ALIGN="RIGHT" DIR="LTR" CLASS="odaotTd"> גמלאי/ת יקר/ה, אגרת המפרטת את חובותיך *            </TD>
+                    </TR>
+                    <TR>
+                        <TD ALIGN="RIGHT" DIR="LTR" CLASS="odaotTd">     וזכויותיך לטובת שימור ומקסום זכאותך            </TD>
+                    </TR>
+                    <TR>
+                        <TD ALIGN="RIGHT" DIR="LTR" CLASS="odaotTd">  להקלות בתשלומי המיסים בשנת 2020 מופיעה            </TD>
+                    </TR>
+                    <TR>
+                        <TD ALIGN="RIGHT" DIR="LTR" CLASS="odaotTd">                  .באזור האישי באתר צה"ל            </TD>
+                    </TR>
+                    <TR>
+                        <TD ALIGN="RIGHT" DIR="LTR" CLASS="odaotTd">?מעוניין לצפות בתלוש השכר הדיגיטלי שלך *            </TD>
+                    </TR>
+                </TABLE>
+            </TD><TD CLASS="tlushTd" WIDTH="25px"></TD><TD CLASS="tlushTd" VALIGN="TOP" WIDTH="300px">
+                <TABLE BORDER="0" CELLSPACING="0" CELLPADDING="0">
+                    <TR>
+                        <TD ALIGN="RIGHT" DIR="LTR" CLASS="odaotTd">     ,ניתן להיכנס לאזור האישי באתר צה"ל             </TD>
+                    </TR>
+                    <TR>
+                        <TD ALIGN="RIGHT" DIR="LTR" CLASS="odaotTd">    .לצפות בתלוש וליהנות משירותים נוספים            </TD>
+                    </TR>
+                    <TR>
+                        <TD ALIGN="RIGHT" DIR="LTR" CLASS="odaotTd">   הינך נדרש/ת לדווח עבור שנה הבאה מצב *            </TD>
+                    </TR>
+                    <TR>
+                        <TD ALIGN="RIGHT" DIR="LTR" CLASS="odaotTd">  תעסוקה של בן/בת זוג, במידה ובן/בת הזוג            </TD>
+                    </TR>
+                    <TR>
+                        <TD ALIGN="RIGHT" DIR="LTR" CLASS="odaotTd"> הגיעו לגיל הפרישה במדינה, כל זאת אם טרם            </TD>
+                    </TR>
+                    <TR>
+                        <TD ALIGN="RIGHT" DIR="LTR" CLASS="odaotTd">    הגעת לגיל 70. טופס הדיווח נמצא באזור            </TD>
+                    </TR>
+                    <TR>
+                        <TD ALIGN="RIGHT" DIR="LTR" CLASS="odaotTd">                        .האישי באתר צה"ל            </TD>
+                    </TR>
+                    <TR>
+                        <TD ALIGN="RIGHT" DIR="LTR" CLASS="odaotTd">               :"להלן מפגשי נציג "צוות *            </TD>
+                    </TR>
+                    <TR>
+                        <TD ALIGN="RIGHT" DIR="LTR" CLASS="odaotTd">      ,2/12/2019 בשעה 12:30, בית החייל *            </TD>
+                    </TR>
+                    <TR>
+                        <TD ALIGN="RIGHT" DIR="LTR" CLASS="odaotTd">                                .ירושלים            </TD>
+                    </TR>
+                    <TR>
+                        <TD ALIGN="RIGHT" DIR="LTR" CLASS="odaotTd"> ***************************************            </TD>
+                    </TR>
+                    <TR>
+                        <TD ALIGN="RIGHT" DIR="LTR" CLASS="odaotTd"> *      ,דיווחי מס לשנת 2019 (תאומי מס *            </TD>
+                    </TR>
+                    <TR>
+                        <TD ALIGN="RIGHT" DIR="LTR" CLASS="odaotTd"> *     נקודות זיכוי, זיכוי בגין מגורים *            </TD>
+                    </TR>
+                    <TR>
+                        <TD ALIGN="RIGHT" DIR="LTR" CLASS="odaotTd"> *     בישובים המזכים בהנחה וכו') ניתן *            </TD>
+                    </TR>
+                    <TR>
+                        <TD ALIGN="RIGHT" DIR="LTR" CLASS="odaotTd"> *        8 להגיש למרכז מופת עד לתאריך *            </TD>
+                    </TR>
+                    <TR>
+                        <TD ALIGN="RIGHT" DIR="LTR" CLASS="odaotTd"> *  בדצמבר 2019. הטבות מס בגין דיווחים *            </TD>
+                    </TR>
+                    <TR>
+                        <TD ALIGN="RIGHT" DIR="LTR" CLASS="odaotTd"> *    ,שיגיעו למרכז מופת לאחר תאריך זה *            </TD>
+                    </TR>
+                    <TR>
+                        <TD ALIGN="RIGHT" DIR="LTR" CLASS="odaotTd"> *   .יינתנו רק ע"י הגשת דוח למס הכנסה *            </TD>
+                    </TR>
+                    <TR>
+                        <TD ALIGN="RIGHT" DIR="LTR" CLASS="odaotTd"> *  דיווחי מס לשנת 2020 ניתן להגיש החל *            </TD>
+                    </TR>
+                    <TR>
+                        <TD ALIGN="RIGHT" DIR="LTR" CLASS="odaotTd"> *  מדצמבר 2019. הודעה זו מבטלת הודעות *            </TD>
+                    </TR>
+                    <TR>
+                        <TD ALIGN="RIGHT" DIR="LTR" CLASS="odaotTd"> *     .שניתנו בנושא זה בחודשים קודמים *            </TD>
+                    </TR>
+                    <TR>
+                        <TD ALIGN="RIGHT" DIR="LTR" CLASS="odaotTd"> ***************************************            </TD>
+                    </TR>
+                </TABLE>
+            </TD>
+        </TR>
+    </TABLE>
+    <span style="position:absolute; left:15px; top:274px">
+        <TABLE BORDER="0">
+            <TD CLASS="tlushTd" align="right">
+		            מ.א.453374</TD><TD CLASS="tlushTd" align="right">      לפידות   יעקב </TD>
+        </TABLE>
+    </span></span>
